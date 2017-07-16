@@ -1,0 +1,15 @@
+extends layout
+
+block content
+    section#content
+        h2= text
+        if hint
+            p
+                i Hint: #{hint}
+        if answer
+           a(href= answer) Answer
+        if question
+            a(href= question) Question
+        |  |  
+        |
+        a(href='/cards') Next Card

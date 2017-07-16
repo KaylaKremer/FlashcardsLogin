@@ -1,0 +1,12 @@
+doctype html
+html(lang="en")
+  head
+    title Videogame Trivia Flash Cards
+    //link(rel='stylesheet', href='static/stylesheets/style.css')
+  body
+    include partials/_header
+    if currentName
+      h2 Welcome, #{currentName}!
+    include partials/_navbar
+    block content
+    include partials/_footer

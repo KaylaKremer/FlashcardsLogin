@@ -1,0 +1,10 @@
+if !currentUser
+    form(action='/signup' method='get')
+        button Sign up
+    br
+    form(action='/login' method='get')
+        button Log in 
+else
+    form(action='/logout' method='get')
+        button Log out
+

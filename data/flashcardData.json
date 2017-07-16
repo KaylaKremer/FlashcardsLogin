@@ -1,0 +1,32 @@
+{
+    "data": {
+        "title": "Videogame Trivia Flashcards",
+        "cards": [
+            {
+                "question": "In what year was Sega Genesis released in North America?",
+                "hint": "It's the same year George H.W. Bush took office as President",
+                "answer": "1989"
+            },
+            {
+                "question": "Which videogame takes place in a dystopian underwater city called Rapture?",
+                "hint": "The game was inspired by Ayn Rand's \"Atlas Shrugged\"",
+                "answer": "Bioshock"
+            },
+            {
+                "question": "What Nintendo system was released after the N64 and before the Wii?",
+                "hint": "Its name comes from a symmetrical three-dimensional shape",
+                "answer": "Gamecube"
+            },
+            {
+                "question": "What character do you play as in The Legend Of Zelda?",
+                "hint": "It isn't Zelda!",
+                "answer": "Link"
+            },
+            {
+                "question": "What classic beat-'em-up game featured brothers Billy Lee and Jimmy (also nicknamed Spike and Hammer)? ",
+                "hint": "Its name sounds like the name of a Chinese buffet restuarant",
+                "answer": "Double Dragon"
+            }
+        ]
+    }
+}
