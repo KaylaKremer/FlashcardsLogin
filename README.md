@@ -1,4 +1,4 @@
-# FlashcardsLogin
+# FlashcardsLoginAuthenticate
 A flashcard app containing videogame trivia with a user authentication signup &amp; login.
 
 This project creates a user authentication system with Express and MongoDB/Mongoose. A user can sign up with a username and password, log in, and log out of the app. Once logged in, a flashcard game containing videogame trivia is accessible to the user.
