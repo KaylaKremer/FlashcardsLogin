@@ -1,5 +1,5 @@
 {
-  "name": "flashcards",
+  "name": "flashcardslogin",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kayla Kremer",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^1.0.2",
