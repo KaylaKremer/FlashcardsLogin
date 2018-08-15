@@ -5,5 +5,5 @@ This project creates a user authentication system with Express, MongoDB/Mongoose
 
 I combined and expanded upon what I learned from two tutorial series on <a href='https://www.teamtreehouse.com'>Team Treehouse</a> (<a href="https://teamtreehouse.com/library/express-basics-2">Express Basics</a> & <a href="https://teamtreehouse.com/library/user-authentication-with-express-and-mongo">User Authentication with Express and Mongo</a>) to code this. It is heavily commented so that other Treehouse students can easily understand the code and use it along with these tutorials as additional practice. 
 
-[My Treehouse Profile](https://teamtreehouse.com/kaylakremer)
+### :point_right: [My Treehouse Profile](https://teamtreehouse.com/kaylakremer)
 
